@@ -4,19 +4,19 @@
     "url": "https://hellorusk.net",
     "icon": "https://favicons.githubusercontent.com/hellorusk.net",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 137,
-    "timeWeek": 106,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 109,
+    "timeDay": 153,
+    "timeWeek": 113,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2022-06-19": 0
+      "2022-06-19": 11
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://qiita-api.vercel.app",
     "icon": "https://favicons.githubusercontent.com/qiita-api.vercel.app",
     "slug": "qiita-trend-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 75,
-    "timeWeek": 188,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 189,
+    "timeDay": 153,
+    "timeWeek": 193,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-06-19": 0
+      "2022-06-19": 11
     }
   },
   {
