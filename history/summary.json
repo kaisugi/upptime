@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/hellorusk.net",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 109,
-    "timeDay": 153,
-    "timeWeek": 113,
-    "timeMonth": 109,
-    "timeYear": 109,
-    "dailyMinutesDown": {
-      "2022-06-19": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 108,
+    "timeDay": 130,
+    "timeWeek": 117,
+    "timeMonth": 108,
+    "timeYear": 108,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spotify WordCloud",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 272,
-    "timeWeek": 274,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 275,
+    "timeDay": 287,
+    "timeWeek": 278,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/qiita-api.vercel.app",
     "slug": "qiita-trend-api",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 189,
-    "timeDay": 153,
-    "timeWeek": 193,
-    "timeMonth": 189,
-    "timeYear": 189,
-    "dailyMinutesDown": {
-      "2022-06-19": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 251,
+    "timeWeek": 208,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zenn Trend API",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 1374,
-    "timeWeek": 232,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 211,
+    "timeDay": 60,
+    "timeWeek": 235,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   }
 ]
