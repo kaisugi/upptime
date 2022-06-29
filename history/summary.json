@@ -22,18 +22,20 @@
     "url": "https://spotify-word.cloud",
     "icon": "https://favicons.githubusercontent.com/spotify-word.cloud",
     "slug": "spotify-word-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 265,
-    "timeWeek": 367,
-    "timeMonth": 306,
-    "timeYear": 306,
-    "dailyMinutesDown": {}
+    "time": 295,
+    "timeDay": 170,
+    "timeWeek": 330,
+    "timeMonth": 295,
+    "timeYear": 295,
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "Qiita Trend API",
