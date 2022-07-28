@@ -42,19 +42,19 @@
     "url": "https://qiita-api.vercel.app",
     "icon": "https://favicons.githubusercontent.com/qiita-api.vercel.app",
     "slug": "qiita-trend-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 192,
-    "timeWeek": 133,
-    "timeMonth": 138,
-    "timeYear": 226,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 222,
+    "timeDay": 114,
+    "timeWeek": 121,
+    "timeMonth": 135,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 13
     }
   },
   {
