@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 228,
-    "timeWeek": 199,
+    "time": 137,
+    "timeDay": 93,
+    "timeWeek": 193,
     "timeMonth": 147,
-    "timeYear": 138,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 395,
-    "timeDay": 262,
-    "timeWeek": 373,
+    "time": 392,
+    "timeDay": 258,
+    "timeWeek": 316,
     "timeMonth": 443,
-    "timeYear": 395,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-06-29": 21
     }
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/qiita-api.vercel.app",
     "slug": "qiita-trend-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 222,
-    "timeDay": 114,
-    "timeWeek": 121,
-    "timeMonth": 135,
-    "timeYear": 222,
-    "dailyMinutesDown": {
-      "2022-07-28": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 72,
+    "timeWeek": 125,
+    "timeMonth": 134,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zenn Trend API",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 120,
-    "timeWeek": 289,
+    "time": 223,
+    "timeDay": 62,
+    "timeWeek": 285,
     "timeMonth": 173,
-    "timeYear": 226,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   }
 ]
