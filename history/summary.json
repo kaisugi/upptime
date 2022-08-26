@@ -4,10 +4,10 @@
     "url": "https://hellorusk.net",
     "icon": "https://favicons.githubusercontent.com/hellorusk.net",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
@@ -15,7 +15,9 @@
     "timeWeek": 117,
     "timeMonth": 204,
     "timeYear": 163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 1
+    }
   },
   {
     "name": "Spotify WordCloud",
@@ -42,10 +44,10 @@
     "url": "https://qiita-api.vercel.app",
     "icon": "https://favicons.githubusercontent.com/qiita-api.vercel.app",
     "slug": "qiita-trend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
@@ -53,14 +55,16 @@
     "timeWeek": 131,
     "timeMonth": 129,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 1
+    }
   },
   {
     "name": "Zenn Trend API",
     "url": "https://zenn-api.vercel.app",
     "icon": "https://favicons.githubusercontent.com/zenn-api.vercel.app",
     "slug": "zenn-trend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +75,8 @@
     "timeWeek": 144,
     "timeMonth": 120,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   }
 ]
