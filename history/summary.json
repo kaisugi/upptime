@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/hellorusk.net",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 162,
-    "timeDay": 137,
-    "timeWeek": 113,
-    "timeMonth": 200,
-    "timeYear": 162,
-    "dailyMinutesDown": {
-      "2022-08-26": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 161,
+    "timeDay": 89,
+    "timeWeek": 111,
+    "timeMonth": 199,
+    "timeYear": 161,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spotify WordCloud",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 505,
-    "timeDay": 300,
+    "time": 502,
+    "timeDay": 241,
     "timeWeek": 359,
-    "timeMonth": 643,
-    "timeYear": 505,
+    "timeMonth": 625,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2022-06-29": 21
     }
@@ -45,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/qiita-api.vercel.app",
     "slug": "qiita-trend-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 186,
-    "timeDay": 210,
-    "timeWeek": 120,
-    "timeMonth": 126,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2022-08-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 187,
+    "timeDay": 158,
+    "timeWeek": 143,
+    "timeMonth": 130,
+    "timeYear": 187,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zenn Trend API",
@@ -65,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/zenn-api.vercel.app",
     "slug": "zenn-trend-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 183,
-    "timeDay": 227,
-    "timeWeek": 142,
-    "timeMonth": 120,
-    "timeYear": 183,
-    "dailyMinutesDown": {
-      "2022-08-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 182,
+    "timeDay": 132,
+    "timeWeek": 155,
+    "timeMonth": 115,
+    "timeYear": 182,
+    "dailyMinutesDown": {}
   }
 ]
