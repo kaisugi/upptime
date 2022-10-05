@@ -1,7 +1,7 @@
 url: https://spotify-word.cloud
-status: down
-code: 500
-responseTime: 204
-lastUpdated: 2022-10-05T09:35:01.653Z
+status: up
+code: 200
+responseTime: 997
+lastUpdated: 2022-10-05T09:47:10.455Z
 startTime: Sun Jun 12 2022 05:19:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
