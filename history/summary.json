@@ -4,19 +4,19 @@
     "url": "https://hellorusk.net",
     "icon": "https://icons.duckduckgo.com/ip3/hellorusk.net.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 155,
-    "timeWeek": 858,
-    "timeMonth": 366,
+    "timeDay": 167,
+    "timeWeek": 773,
+    "timeMonth": 360,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-10-30": 0
+      "2022-10-30": 6
     }
   },
   {
