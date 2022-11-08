@@ -4,19 +4,19 @@
     "url": "https://hellorusk.net",
     "icon": "https://icons.duckduckgo.com/ip3/hellorusk.net.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 198,
-    "timeWeek": 144,
-    "timeMonth": 311,
-    "timeYear": 204,
+    "time": 203,
+    "timeDay": 118,
+    "timeWeek": 130,
+    "timeMonth": 302,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2022-11-08": 1
+      "2022-11-08": 10
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://qiita-api.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/qiita-api.vercel.app.ico",
     "slug": "qiita-trend-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 170,
-    "timeWeek": 172,
+    "timeDay": 157,
+    "timeWeek": 169,
     "timeMonth": 147,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-11-08": 1
+      "2022-11-08": 9
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://zenn-api.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zenn-api.vercel.app.ico",
     "slug": "zenn-trend-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 216,
-    "timeWeek": 109,
-    "timeMonth": 277,
-    "timeYear": 196,
+    "time": 195,
+    "timeDay": 135,
+    "timeWeek": 102,
+    "timeMonth": 270,
+    "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-11-08": 0
+      "2022-11-08": 9
     }
   }
 ]
