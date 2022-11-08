@@ -4,10 +4,10 @@
     "url": "https://hellorusk.net",
     "icon": "https://icons.duckduckgo.com/ip3/hellorusk.net.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -15,7 +15,9 @@
     "timeWeek": 144,
     "timeMonth": 311,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 1
+    }
   },
   {
     "name": "Spotify WordCloud",
@@ -26,7 +28,7 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 460,
     "timeDay": 284,
@@ -44,10 +46,10 @@
     "url": "https://qiita-api.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/qiita-api.vercel.app.ico",
     "slug": "qiita-trend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
@@ -55,16 +57,18 @@
     "timeWeek": 172,
     "timeMonth": 147,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 1
+    }
   },
   {
     "name": "Zenn Trend API",
     "url": "https://zenn-api.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zenn-api.vercel.app.ico",
     "slug": "zenn-trend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +77,8 @@
     "timeWeek": 109,
     "timeMonth": 277,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   }
 ]
