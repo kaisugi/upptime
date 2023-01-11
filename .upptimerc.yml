@@ -11,6 +11,9 @@ sites:
     url: https://qiita-api.vercel.app
   - name: Zenn Trend API
     url: https://zenn-api.vercel.app
+    
+workflowSchedule:
+  uptime: "*/30 * * * *"
 
 #status-website:
 #  # Add your custom domain name, or remove the `cname` line if you don't have a domain
