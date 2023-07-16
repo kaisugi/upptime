@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: homepage
-    url: https://hellorusk.net
+    url: https://kaisugi.me
   - name: Spotify WordCloud
     url: https://spotify-word.cloud
   - name: Qiita Trend API
