@@ -61,19 +61,19 @@
     "url": "https://zenn-api.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zenn-api.vercel.app.ico",
     "slug": "zenn-trend-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 37,
-    "timeWeek": 95,
-    "timeMonth": 130,
-    "timeYear": 122,
+    "timeDay": 39,
+    "timeWeek": 88,
+    "timeMonth": 127,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-11-12": 0
+      "2023-11-12": 19
     }
   }
 ]
