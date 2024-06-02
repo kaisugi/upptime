@@ -11,54 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 261,
-    "timeWeek": 207,
-    "timeMonth": 222,
-    "timeYear": 187,
+    "timeDay": 319,
+    "timeWeek": 228,
+    "timeMonth": 227,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2023-10-30": 29,
       "2023-07-16": 25
-    }
-  },
-  {
-    "name": "Qiita Trend API",
-    "url": "https://qiita-api.vercel.app",
-    "icon": "https://icons.duckduckgo.com/ip3/qiita-api.vercel.app.ico",
-    "slug": "qiita-trend-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 120,
-    "timeDay": 136,
-    "timeWeek": 112,
-    "timeMonth": 116,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-06-02": 32
-    }
-  },
-  {
-    "name": "Zenn Trend API",
-    "url": "https://zenn-api.vercel.app",
-    "icon": "https://icons.duckduckgo.com/ip3/zenn-api.vercel.app.ico",
-    "slug": "zenn-trend-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 118,
-    "timeDay": 57,
-    "timeWeek": 72,
-    "timeMonth": 108,
-    "timeYear": 119,
-    "dailyMinutesDown": {
-      "2024-06-02": 32,
-      "2023-11-12": 19
     }
   }
 ]
