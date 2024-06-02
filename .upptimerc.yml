@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: homepage
     url: https://kaisugi.me
-  - name: Qiita Trend API
-    url: https://qiita-api.vercel.app
-  - name: Zenn Trend API
-    url: https://zenn-api.vercel.app
     
 workflowSchedule:
   uptime: "*/30 * * * *"
