@@ -4,17 +4,17 @@
     "url": "https://kaisugi.me",
     "icon": "https://icons.duckduckgo.com/ip3/kaisugi.me.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 184,
-    "timeWeek": 234,
-    "timeMonth": 400,
-    "timeYear": 254,
+    "timeDay": 161,
+    "timeWeek": 222,
+    "timeMonth": 392,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   }
 ]
