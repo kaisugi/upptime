@@ -6,14 +6,14 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 235,
-    "timeWeek": 244,
-    "timeMonth": 392,
+    "timeDay": 275,
+    "timeWeek": 242,
+    "timeMonth": 282,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-04-29": 26
