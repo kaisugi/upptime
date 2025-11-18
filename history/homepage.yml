@@ -1,7 +1,7 @@
 url: https://kaisugi.me
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2025-11-17T23:00:38.496Z
+status: down
+code: 500
+responseTime: 257
+lastUpdated: 2025-11-18T11:34:57.987Z
 startTime: 2022-06-12T05:37:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
