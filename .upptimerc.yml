@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: homepage
     url: https://kaisugi.me
+  - name: 俺の自炊
+    url: https://kaisugi.github.io/cooking/
     
 workflowSchedule:
   uptime: "*/30 * * * *"
