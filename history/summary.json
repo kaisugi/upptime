@@ -25,22 +25,18 @@
     "name": "俺の自炊",
     "url": "https://kaisugi.github.io/cooking/",
     "icon": "https://icons.duckduckgo.com/ip3/kaisugi.github.io.ico",
-    "slug": "",
+    "slug": "俺の自炊",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 151,
-    "timeDay": 112,
-    "timeWeek": 119,
-    "timeMonth": 135,
-    "timeYear": 151,
-    "dailyMinutesDown": {
-      "2025-11-12": 24,
-      "2025-11-18": 177,
-      "2026-04-22": 24
-    }
+    "uptimeYear": "100.00%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
+    "dailyMinutesDown": {}
   }
 ]
