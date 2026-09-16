@@ -7,6 +7,8 @@ sites:
     url: https://kaisugi.me
   - name: wiki
     url: https://llm-wiki.kaisugi.me
+  - name: ことば点検
+    url: https://kotoba.kaisugi.me
   - name: 俺の自炊
     url: https://kaisugi.github.io/cooking/
     
