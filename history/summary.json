@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 239,
-    "timeDay": 184,
-    "timeWeek": 213,
+    "timeDay": 185,
+    "timeWeek": 210,
     "timeMonth": 171,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 133,
-    "timeWeek": 146,
-    "timeMonth": 147,
-    "timeYear": 141,
+    "time": 143,
+    "timeDay": 177,
+    "timeWeek": 159,
+    "timeMonth": 151,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -50,21 +50,21 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
     "name": "俺の自炊",
-    "url": "https://kaisugi.github.io/cooking/",
-    "icon": "https://icons.duckduckgo.com/ip3/kaisugi.github.io.ico",
+    "url": "https://coooking.kaisugi.me",
+    "icon": "https://icons.duckduckgo.com/ip3/coooking.kaisugi.me.ico",
     "slug": "俺の自炊",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 140,
     "timeMonth": 132,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-17": 0
+    }
   }
 ]
