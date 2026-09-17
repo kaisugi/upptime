@@ -10,7 +10,7 @@ sites:
   - name: ことば点検
     url: https://kotoba.kaisugi.me
   - name: 俺の自炊
-    url: https://kaisugi.github.io/cooking/
+    url: https://coooking.kaisugi.me
     
 workflowSchedule:
   uptime: "*/30 * * * *"
